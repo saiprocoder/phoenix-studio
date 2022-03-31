@@ -51,7 +51,7 @@
 }
 
 .background {
-    background-image: linear-gradient(to right, purple, black, blue);
+    background-image: linear-gradient(to right, #800080, #FFC0CB, #FFA500);
     background-size: cover;
     background-blend-mode: darken;
 }
